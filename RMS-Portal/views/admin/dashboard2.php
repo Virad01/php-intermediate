@@ -86,7 +86,7 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                     <div id="reportrange" class="pull-right"
                                          style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
                                         <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
-                                        <span>December 30, 2014 - January 28, 2015</span> <b class="caret"></b>
+                                        <span>December 30, 2023 - January 28, 2023</span> <b class="caret"></b>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
@@ -107,7 +107,8 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                         </div>
                                         <div class="col-md-4 tile">
                                             <span>Total Revenue</span>
-                                            <h2>$231,809</h2>
+                                            <h2>231,80 <U></U>
+                                            <20B9></20B9></h2>
                                             <span class="sparkline22 graph" style="height: 160px;">
                                 <canvas width="200" height="60"
                                         style="display: inline-block; vertical-align: top; width: 94px; height: 30px;"></canvas>
@@ -115,7 +116,8 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                         </div>
                                         <div class="col-md-4 tile">
                                             <span>Total Sessions</span>
-                                            <h2>231,809</h2>
+                                            <h2>231,809<U></U>
+                                            <20B9></20B9></h2>
                                             <span class="sparkline11 graph" style="height: 160px;">
                                  <canvas width="200" height="60"
                                          style="display: inline-block; vertical-align: top; width: 94px; height: 30px;"></canvas>
@@ -153,8 +155,8 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                                     <i class="fa fa-user aero"></i>
                                                 </a>
                                                 <div class="media-body">
-                                                    <a class="title" href="#">Ms. Mary Jane</a>
-                                                    <p><strong>$2300. </strong> Agent Avarage Sales </p>
+                                                    <a class="title" href="#">Ms. Dhruhi Jain</a>
+                                                    <p><strong>Rs.2300. </strong> Agent Avarage Sales </p>
                                                     <p>
                                                         <small>12 Sales Today</small>
                                                     </p>
@@ -165,8 +167,8 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                                     <i class="fa fa-user green"></i>
                                                 </a>
                                                 <div class="media-body">
-                                                    <a class="title" href="#">Ms. Mary Jane</a>
-                                                    <p><strong>$2300. </strong> Agent Avarage Sales </p>
+                                                    <a class="title" href="#">Ms.Dhruhi Jain</a>
+                                                    <p><strong>Rs.2300. </strong> Agent Avarage Sales </p>
                                                     <p>
                                                         <small>12 Sales Today</small>
                                                     </p>
@@ -177,8 +179,8 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                                     <i class="fa fa-user blue"></i>
                                                 </a>
                                                 <div class="media-body">
-                                                    <a class="title" href="#">Ms. Mary Jane</a>
-                                                    <p><strong>$2300. </strong> Agent Avarage Sales </p>
+                                                    <a class="title" href="#">Ms. Dhruhi Jain</a>
+                                                    <p><strong>Rs.2300. </strong> Agent Avarage Sales </p>
                                                     <p>
                                                         <small>12 Sales Today</small>
                                                     </p>
@@ -189,8 +191,8 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                                     <i class="fa fa-user aero"></i>
                                                 </a>
                                                 <div class="media-body">
-                                                    <a class="title" href="#">Ms. Mary Jane</a>
-                                                    <p><strong>$2300. </strong> Agent Avarage Sales </p>
+                                                    <a class="title" href="#">Ms. Dhruhi Jain</a>
+                                                    <p><strong>Rs.2300. </strong> Agent Avarage Sales </p>
                                                     <p>
                                                         <small>12 Sales Today</small>
                                                     </p>
@@ -201,8 +203,8 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                                     <i class="fa fa-user green"></i>
                                                 </a>
                                                 <div class="media-body">
-                                                    <a class="title" href="#">Ms. Mary Jane</a>
-                                                    <p><strong>$2300. </strong> Agent Avarage Sales </p>
+                                                    <a class="title" href="#">Ms. Dhruhi Jain</a>
+                                                    <p><strong>Rs.2300. </strong> Agent Avarage Sales </p>
                                                     <p>
                                                         <small>12 Sales Today</small>
                                                     </p>

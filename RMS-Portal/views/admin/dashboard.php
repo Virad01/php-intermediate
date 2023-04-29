@@ -107,7 +107,7 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
                             <div class="col-md-6">
                                 <div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
                                     <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
-                                    <span>December 30, 2014 - January 28, 2015</span> <b class="caret"></b>
+                                    <span>December 30, 2023 - January 28, 2023</span> <b class="caret"></b>
                                 </div>
                             </div>
                         </div>
@@ -448,7 +448,7 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
                                                     <a>Who Needs Sundance When You’ve Got&nbsp;Crowdfunding?</a>
                                                 </h2>
                                                 <div class="byline">
-                                                    <span>13 hours ago</span> by <a>Jane Smith</a>
+                                                    <span>13 hours ago</span> by <a>Virad</a>
                                                 </div>
                                                 <p class="excerpt">Film festivals used to be do-or-die moments for movie makers. They were where you met the producers that could fund your project, and if the buyers liked your flick, they’d pay to Fast-forward and… <a>Read&nbsp;More</a>
                                                 </p>
@@ -462,7 +462,7 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
                                                     <a>Who Needs Sundance When You’ve Got&nbsp;Crowdfunding?</a>
                                                 </h2>
                                                 <div class="byline">
-                                                    <span>13 hours ago</span> by <a>Jane Smith</a>
+                                                    <span>13 hours ago</span> by <a>Virad</a>
                                                 </div>
                                                 <p class="excerpt">Film festivals used to be do-or-die moments for movie makers. They were where you met the producers that could fund your project, and if the buyers liked your flick, they’d pay to Fast-forward and… <a>Read&nbsp;More</a>
                                                 </p>
@@ -476,7 +476,7 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
                                                     <a>Who Needs Sundance When You’ve Got&nbsp;Crowdfunding?</a>
                                                 </h2>
                                                 <div class="byline">
-                                                    <span>13 hours ago</span> by <a>Jane Smith</a>
+                                                    <span>13 hours ago</span> by <a>Virad</a>
                                                 </div>
                                                 <p class="excerpt">Film festivals used to be do-or-die moments for movie makers. They were where you met the producers that could fund your project, and if the buyers liked your flick, they’d pay to Fast-forward and… <a>Read&nbsp;More</a>
                                                 </p>
@@ -490,7 +490,7 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
                                                     <a>Who Needs Sundance When You’ve Got&nbsp;Crowdfunding?</a>
                                                 </h2>
                                                 <div class="byline">
-                                                    <span>13 hours ago</span> by <a>Jane Smith</a>
+                                                    <span>13 hours ago</span> by <a>Virad</a>
                                                 </div>
                                                 <p class="excerpt">Film festivals used to be do-or-die moments for movie makers. They were where you met the producers that could fund your project, and if the buyers liked your flick, they’d pay to Fast-forward and… <a>Read&nbsp;More</a>
                                                 </p>
@@ -539,11 +539,11 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
                                             <table class="countries_list">
                                                 <tbody>
                                                 <tr>
-                                                    <td>United States</td>
+                                                    <td>India</td>
                                                     <td class="fs15 fw700 text-right">33%</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>France</td>
+                                                    <td>US</td>
                                                     <td class="fs15 fw700 text-right">27%</td>
                                                 </tr>
                                                 <tr>

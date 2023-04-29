@@ -54,7 +54,7 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6 tile">
                         <span>Total Revenue</span>
-                        <h2>$ 231,809</h2>
+                        <h2>Rs. 231,809</h2>
                         <span class="sparkline_one" style="height: 160px;">
                       <canvas width="200" height="60"
                               style="display: inline-block; vertical-align: top; width: 94px; height: 30px;"></canvas>
@@ -93,7 +93,7 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                     <div id="reportrange" class="pull-right"
                                          style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
                                         <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
-                                        <span>December 30, 2014 - January 28, 2015</span> <b class="caret"></b>
+                                        <span>December 30, 2023 - January 28, 2023</span> <b class="caret"></b>
                                     </div>
                                 </div>
                             </div>
@@ -623,9 +623,9 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                         <canvas width="150" height="80" id="chart_gauge_02" class=""
                                                 style="width: 160px; height: 100px;"></canvas>
                                         <div class="goal-wrapper">
-                                            <span class="gauge-value pull-left">$</span>
+                                            <span class="gauge-value pull-left">Rs.</span>
                                             <span id="gauge-text2" class="gauge-value pull-left">3,200</span>
-                                            <span id="goal-text2" class="goal-value pull-right">$5,000</span>
+                                            <span id="goal-text2" class="goal-value pull-right">Rs.5,000</span>
                                         </div>
                                     </div>
                                 </div>
