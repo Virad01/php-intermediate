@@ -74,7 +74,7 @@ session_start();
 <!--                        <br />-->
 
                         <div>
-                            <h1><i class="fa fa-paw"></i> Virad Inc. !</h1>
+                            <h1><i ></i> Virad Inc. !</h1>
                             <p>©2023 All Rights Reserved. Virad Inc.</p>
                         </div>
                     </div>
@@ -110,7 +110,7 @@ session_start();
                         <br />
 
                         <div>
-                            <h1><i class="fa fa-paw"></i> Virad Inc. !</h1>
+                            <h1><i></i> Virad Inc. !</h1>
                             <p>©2023. All Rights Reserved. Virad Inc. !</p>
                         </div>
                     </div>

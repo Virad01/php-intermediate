@@ -82,7 +82,7 @@ CREATE TABLE `departments` (
 --
 
 INSERT INTO `departments` (`id`, `name`, `status`, `create_by`, `create_date`, `modified_by`, `modified_date`) VALUES
-(1, 'IT', 1, 'Admin', '2017-05-24 06:37:11', '', '2017-05-05 18:00:00'),
+(1, 'IT', 1, 'Admin', '20-05-24 06:37:11', '', '2017-05-05 18:00:00'),
 (2, 'Coaching', 1, 'Admin', '2017-05-24 06:37:29', '', '0000-00-00 00:00:00');
 
 -- --------------------------------------------------------

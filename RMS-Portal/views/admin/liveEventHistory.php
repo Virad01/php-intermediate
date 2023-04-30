@@ -23,7 +23,7 @@ $events=$conn->getAll("SELECT * FROM `live_events`");
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Human Resource Management Sysytem</title>
+    <title>RMS</title>
 
     <!-- Bootstrap -->
     <link href="../../resource/css/bootstrap.css" rel="stylesheet">

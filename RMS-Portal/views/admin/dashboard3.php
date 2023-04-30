@@ -498,7 +498,7 @@ if(!isset($_SESSION['admin_name']) && !isset($_SESSION['password'])) {
                                     </div>
                                     <div class="col-sm-8">
                                         <div class="weather-text">
-                                            <h2>Texas
+                                            <h2>Guna
                                                 <br><i>Partly Cloudy Day</i>
                                             </h2>
                                         </div>

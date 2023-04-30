@@ -31,7 +31,7 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Human Resource Management Sysytem</title>
+    <title>RMS</title>
 
     <!-- Bootstrap -->
     <link href="../../resource/css/bootstrap.css" rel="stylesheet">
@@ -679,7 +679,7 @@ $notices=$conn->getOne("SELECT COUNT(id) TOTAL FROM notices WHERE status = 1");
                                         </div>
                                         <div class="col-sm-8">
                                             <div class="weather-text">
-                                                <h2>Texas <br><i>Partly Cloudy Day</i></h2>
+                                                <h2>Guna, M.P <br><i>Partly Cloudy Day</i></h2>
                                             </div>
                                         </div>
                                     </div>
